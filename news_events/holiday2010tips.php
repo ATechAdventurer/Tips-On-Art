@@ -8,7 +8,7 @@
 <map name="logo"><area shape="rect" coords="23,0,159,108" href="/" alt="TIPS On Art"></map>
 <body><a name="top"></a>
 <div class="bgblk"><img src="/images/pgtop.jpg" width="780" height="121" border="0" alt="" usemap="#logo"><div class="nav"><a href="/">Home</a><a href="/programs/">Programs</a><a href="/facility/">Facility</a><a href="/tip_board/">Tip Board</a><span class="navon">News & Events</span><a href="/be_involved/">Be Involved</a><a href="/store/">Store</a><a href="/about_us/">About Us</a><a href="/contact_us/">Contact Us</a><a href="/links/">Links</a></div></div><div style="margin:0px 23px 0px 23px;"><img src="/images/nav_btm.gif" width="734" height="12" border="0" alt=""></div><div id="container">
-	<div id="left"><h1><a href="/">News and Events</a></h1><div class="snav"><a href="http://www.tipsonart.org/news_events/index.php#holiday">Holiday Family Adoption</a><br><a href="http://www.tipsonart.org/news_events/index.php#makeover">Benavides Family Home Makeover</a><br><a href="http://www.tipsonart.org/news_events/index.php#school">School Supplies for African Orphanage</a><br><a href="holiday2010tips.php">TIPS On Art Wish List</a></div>
+	<div id="left"><h1><a href="/">News and Events</a></h1><div class="snav"><a href="http://www.tipsonart.org/news_events/index.html#holiday">Holiday Family Adoption</a><br><a href="http://www.tipsonart.org/news_events/index.html#makeover">Benavides Family Home Makeover</a><br><a href="http://www.tipsonart.org/news_events/index.html#school">School Supplies for African Orphanage</a><br><a href="holiday2010tips.html">TIPS On Art Wish List</a></div>
 	</div>
 	<div id="right">
 	
