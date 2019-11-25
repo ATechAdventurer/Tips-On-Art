@@ -68,7 +68,7 @@ function MM_swapImage() { //v3.0
       represents lively discussions with artisans and arts organizations in a 
       wide range of mediums and performance styles. We ongoingly add new interviews 
       so be sure to check back with us regularly. Each segment represents the 
-      artist or director�s personal views and by no means is intended to suggest 
+      artist or directors personal views and by no means is intended to suggest 
       their methods are the only way to interact with each medium. In fact, each 
       artist encourages experimentation to find your unique love and style. Enjoy, 
       learn and be inspired! Then, let us know what you think and what you want 
@@ -111,7 +111,7 @@ function MM_swapImage() { //v3.0
       each segment. Bringing creative information into the learning environment 
       to inspire our next level of artisans is our mission... literally linking 
       our artistic opportunities to strengthen our community and our world. Welcome 
-      to TIPS On Art � Learning Segments On The Web!<br>
+      to TIPS On Art  Learning Segments On The Web!<br>
       </font></td>
     <td height="190" width="40%" rowspan="3"> 
       <div align="center"><font face="Tahoma" size="2"><b> Performance:</b></font><font face="Tahoma" size="2"><br>
